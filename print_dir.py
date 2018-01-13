@@ -105,7 +105,7 @@ def main():
         s = sys.argv[1]
         
         if s == '?':
-            print("python print_dir [dir] [-file_name to save result]")
+            print("python print_dir [dir] [file_name to save result]")
             return          
     else:
         s= input("Please input the director to be displayed:")
