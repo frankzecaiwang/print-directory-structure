@@ -1,7 +1,9 @@
 # print-directory-structure
 
-# you can print on the screen or save to a file with this python module
+# you can print directory structure on the screen or save directory structure to a file with this python module
+# exmaple
 
+"""
 [.]
   └─FirstApplication.py
   └─MsgHandlerClient Cat v1.0.py
@@ -13,3 +15,4 @@
   └─[test]
     └─New Text Document.txt
     └─[test]
+"""
